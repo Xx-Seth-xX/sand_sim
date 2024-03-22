@@ -1,0 +1,5 @@
+# Quickstart
+
+```sh
+  $ odin run .
+```
